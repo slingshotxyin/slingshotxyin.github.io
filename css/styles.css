@@ -176,6 +176,7 @@
    
    .nav-logo {
      height: 32px;
+     width: 32px;
    }
    
    .nav-link {
@@ -4376,7 +4377,7 @@
      }
    
      .menu-button {
-       background-image: linear-gradient(132deg, #fa5853, #f46692 49%, #ffc444);
+       background-image: linear-gradient(349deg,#377B7B, #63B8A7, #D2FFE3 );
      }
    
      .menu-button.w--open {
